@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: simple-webapp
-          image: docker.io/caesar92/webapp:2210210201
+          image: docker.io/caesar92/webapp:2210210202
           ports:
             - containerPort: 80
